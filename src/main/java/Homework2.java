@@ -5,7 +5,7 @@ public class Homework2 {
         System.out.println("This is my Homework");
 
 //         print variables
-        System.out.println();
+        System.out.println("Hi");
     }
 
 
